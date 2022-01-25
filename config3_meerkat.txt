@@ -1,0 +1,36 @@
+Project:
+-----------------------
+Project name          = meerkat_mito3subsamp
+Type                  = mito
+Genome Range          = 12000-21000
+K-mer                 = 39
+Max memory            = 20
+Extended log          = 
+Save assembled reads  = 
+Seed Input            = /home/derezanin/species_comp/feliformes/herpestidae/meerkat_mitogenome/reference_mitogenomes/eupleridae_narrow_striped_mongoose_mitogenome.fa
+Reference sequence    = /home/derezanin/species_comp/feliformes/herpestidae/meerkat_mitogenome/reference_mitogenomes/eupleridae_narrow_striped_mongoose_mitogenome.fa
+Variance detection    = yes
+Chloroplast sequence  =
+
+Dataset 1:
+-----------------------
+Read Length           = 150
+Insert size           = 550
+Platform              = illumina
+Single/Paired         = PE
+Combined reads        = 
+Forward reads         = /home/derezanin/species_comp/feliformes/herpestidae/meerkat_mitogenome/novoplasty_run/adapt_cut/meerkat_adpt_cut_R1_val_1.fq.gz
+Reverse reads         = /home/derezanin/species_comp/feliformes/herpestidae/meerkat_mitogenome/novoplasty_run/adapt_cut/meerkat_adpt_cut_R2_val_2.fq.gz
+
+Heteroplasmy:
+-----------------------
+MAF                   =
+HP exclude list       = 
+PCR-free              = yes
+
+Optional:
+-----------------------
+Insert size auto      = yes
+Insert Range          = 1.6
+Insert Range strict   = 1.3
+Use Quality Scores    =
